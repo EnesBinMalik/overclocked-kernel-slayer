@@ -1,0 +1,6 @@
+{
+  "name": "OVERCLOCKED: KERNEL SLAYER",
+  "description": "3D High-Tempo Cyber-Kinetic Action, Real-Time Memory Manipulation and Hardware Shredding Simulation by Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
